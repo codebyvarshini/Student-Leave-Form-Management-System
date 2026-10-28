@@ -1,2 +1,2 @@
-# Student-Leave-Form-Management-System
-A Student Online Leave Form Management System developed using PHP and MySQL.
+# Leave-management
+A  PHP project on Leave Management System..

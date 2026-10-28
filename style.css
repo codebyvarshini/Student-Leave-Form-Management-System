@@ -1,0 +1,49 @@
+
+     
+        /* Basic styles for body */
+        body {
+            font-family: 'Roboto', sans-serif; /* Professional font */
+            background-color: #f4f4f9; /* Light, clean background color */
+            margin: 0;
+            padding: 0;
+            color: #333; /* Dark text for readability */
+        }
+
+        /* Header styles */
+        h1 {
+            font-size: 36px;
+            color: #2c3e50;
+            text-align: center;
+            margin-top: 50px;
+            padding-bottom: 10px;
+            font-weight: 600;
+        }
+
+        /* Styling for navigation bar */
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            background-color: #34495e; /* Dark background for navigation */
+            overflow: hidden;
+        }
+
+        ul li {
+            display: inline-block;
+        }
+
+        ul li a {
+            display: block;
+            color: #ecf0f1; /* Light color for links */
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: 500;
+            transition: background-color 0.3s;
+        }
+
+        ul li a:hover {
+            background-color: #2980b9; /* Hover effect with blue */
+        }
+        
